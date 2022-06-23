@@ -1,9 +1,32 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Conceptualización de piezas gráficas',
+    descripcionCurso:
+      'El proceso de conceptualización es importante para cualquier proyecto creativo porque a partir de este es que una idea puede impactar a los clientes haciendo que la marca alcance los objetivos trazados. Para lograrlo, el concepto se apoya en técnicas creativas y en la comunicación visual de tal manera que el producto final sea atractivo para el espectador.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/portada/2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/5.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -22,31 +45,84 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'El concepto creativo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Técnicas de creatividad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Fuentes de información',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'El proyecto gráficon',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'La comunicación visual',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo: 'Tipos',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: 'El mensaje comunicacional',
+            hash: 't_5_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.3',
+            titulo: 'Semiótica',
+            hash: 't_5_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'La tipografía',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.1',
+            titulo: 'Fuente tipográfica',
+            hash: 't_6_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.2',
+            titulo: 'Familia tipográfica',
+            hash: 't_6_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '6.3',
+            titulo: '<i>Lettering</i>',
+            hash: 't_6_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -54,6 +130,7 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'actividad',
@@ -90,36 +167,139 @@ export default {
   },
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'El concepto creativo',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Complot Escuela de Creatividad. (2021). ¿Qué es y cómo crear un Concepto Creativo? // Con Pol Martínez, Director Creativo en & Rosàs. [Video]',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=_gSHXGMyoFI',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Licencia de <i>Creative Commons</i>',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Fernández, J. (2020). Qué son las Licencias Creative Commons y cómo usarlas. [Video] ',
       tipo: 'Video',
-      descarga: '/downloads/prueba.pdf',
+      link: 'https://www.youtube.com/watch?v=IZpQ2eQxTTE',
+    },
+    {
+      tema: 'La semiótica',
+      referencia:
+        'Santana, I. (2020). La semiótica. Universidad Autónoma de Santo Domingo.',
+      tipo: 'Artículo',
+      descarga: '/downloads/semiotica.pdf',
+    },
+    {
+      tema: 'Tipografía',
+      referencia:
+        'Harros, P. y Ambrose, G. (2009). Fundamentos de la tipografía. Editorial Parramón. Segunda edición.',
+      tipo: 'Libro',
+      descarga: '/downloads/fundamentos_de_la_tipografia_ambrose_harris.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: '<i>Brief</i>',
+      significado:
+        'Documento que posee información imprescindible para el comienzo de una planificación o ejecución de cualquier proyecto.',
     },
     {
-      termino: '<em>Término</em>',
-      significado: 'Definición',
+      termino: 'Comunicación',
+      significado:
+        'Intercambiar información entre dos o más personas con el fin de contribuir con los mensajes. Proceso en el que actúan un emisor, un receptor y el mensaje con el que se entrega la información.',
+    },
+    {
+      termino: 'Concepto',
+      significado:
+        'Es un grupo de elementos que ayudan a un creativo, mediante el cual puede formular visualmente las ideas para la creación de un proyecto gráfico.',
+    },
+    {
+      termino: '<i>Copyright</i>',
+      significado:
+        'Personifica los derechos de autor que se le otorgan a los autores de una obra que puede ser musical, literaria, científica, artística, entre otras. Es la forma en que se atribuye la autoría a una persona sobre sus obras y que además le proporciona los derechos como autor.',
+    },
+    {
+      termino: 'Fuentes de información',
+      significado:
+        'Instrumentos que sirven de apoyo para tener conocimiento, acceso y búsqueda de los datos.',
+    },
+    {
+      termino: '<i>Lettering</i>',
+      significado:
+        'Es el arte de diseñar, crear, ilustrar o dibujar mensajes llamativos a través de una creación gráfica que juega con la forma de las letras, según sea el contexto del proyecto.',
+    },
+    {
+      termino: 'Pieza gráfica',
+      significado:
+        'Composición visual en diseño que se relaciona directamente con la publicidad, y que tiene versatilidad en soportes y formatos según sean las necesidades de comunicación.',
+    },
+    {
+      termino: 'Semiótica',
+      significado:
+        'Ciencia que se deriva de la filosofía, dedicada a estudiar los sistemas de comunicación en la sociedad. Se encarga de estudiar los signos existentes en la comunicación social (semiosis).',
+    },
+    {
+      termino: 'Tipografía',
+      significado:
+        'Disciplina que se encarga de analizar y estudiar la representación gráfica de los caracteres para que los mensajes escritos sean más efectivos.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Arellano, G., Barrera, D., Buendía, F., Castillo, L., & Zamora, A. (2013). Comunicación publicitaria en medios impresos. Instituto Politécnico Nacional.',
+    },
+    {
+      referencia:
+        'Blázquez Ochando, M. (2015). Fuentes de Información Especializada: Aspectos Teóricos y Prácticos.  mblazquez.es.',
+    },
+    {
+      referencia:
+        'Casacuberta, D., Castells, R., & Llop, R. (30 de Septiembre de 2004). El copyright en el diseño gráfico. (R. Grrr, Entrevistador)',
+    },
+    {
+      referencia: 'Costa, J. (2003). Diseñar para los ojos. Editorial Design.',
+    },
+    {
+      referencia:
+        'Hernández Barrueco, L. C. (2020). Manual del Comercio Electrónico. Marge.',
+    },
+    {
+      referencia:
+        'Kane, J. (2012). Manual de tipografía.  Editorial Gustavo Gili.',
+    },
+    {
+      referencia:
+        'López Carreño, R. (2017). Fuentes de Información: Guía Básica y Nueva Clasificación. Editorial UOC.',
+    },
+    {
+      referencia:
+        'Lupton, E. (2011). Pensar con tipos. Editorial Gustavo Gili.',
+    },
+    {
+      referencia:
+        'Marín González, A. (2010). Técnicas y Métodos Creativos Aplicados a la Conceptualización del Diseño. Contexto: Revista de la Facultad de Arquitectura Universidad Autónoma de Nuevo León, 41-44.',
+    },
+    {
+      referencia:
+        'Peña Casallas, N. (2020). El diseño gráfico más allá de la experiencia visual-óptica. Bitácora Urbano Territorial, 101-112.',
+    },
+    {
+      referencia:
+        'Pérez Rodríguez, M. D. (2010). Técnicas Publicitarias. Editorial ICB.',
+    },
+    {
+      referencia:
+        'Quilly, M. (2014). Preparación de Proyectos de Diseño Gráfico. Editorial IC.',
+    },
+    {
+      referencia:
+        'Roig, F. (2011). La estrategia creativa. Ediciones Infinito.',
+    },
+    {
+      referencia:
+        'Vilajoana Alejandre, S., & Jiménez Morales, M. a. (2017). ¿Cómo aplicar los conceptos básicos de Publicidad? UOC.',
+    },
+    {
+      referencia: 'Wells, W. S. (2007). Publicidad. Pearson Educación.',
     },
   ],
   creditos: {
@@ -137,6 +317,26 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Samuel Pinilla Hurtado',
+        cargo: 'Experto temático',
+        centro: 'Centro de Comercio - Regional Cauca',
+      },
+      {
+        nombre: 'Adriana López',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Asesora metodológica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Corrector de estilo',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -146,7 +346,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Sofia Suarez Suarez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -158,7 +358,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

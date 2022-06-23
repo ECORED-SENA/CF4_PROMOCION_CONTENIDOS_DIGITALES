@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100.788" height="104.54" viewBox="0 0 100.788 104.54">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.692" cy="0.479" r="0.819" gradientTransform="translate(2.112 3.362) rotate(45.131)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e297a"/>
+      <stop offset="0.015" stop-color="#187570"/>
+      <stop offset="0.673" stop-color="#209c95"/>
+      <stop offset="1" stop-color="#29c4bb"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(0.982, 0.19, -0.19, 0.982, 1.412, 1.405)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#355efa"/>
+      <stop offset="0.02" stop-color="#325aef"/>
+      <stop offset="0.131" stop-color="#2745b7"/>
+      <stop offset="0.245" stop-color="#1c3286"/>
+      <stop offset="0.361" stop-color="#13235d"/>
+      <stop offset="0.479" stop-color="#0c163b"/>
+      <stop offset="0.598" stop-color="#070c21"/>
+      <stop offset="0.72" stop-color="#03050e"/>
+      <stop offset="0.847" stop-color="#000103"/>
+      <stop offset="0.985"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.5" r="0.417" gradientTransform="matrix(1.2, 0, 0, 1.2, 2.681, -0.971)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#579afb"/>
+      <stop offset="0.021" stop-color="#5292ef"/>
+      <stop offset="0.132" stop-color="#3f70b7"/>
+      <stop offset="0.247" stop-color="#2e5286"/>
+      <stop offset="0.363" stop-color="#20395d"/>
+      <stop offset="0.48" stop-color="#14243b"/>
+      <stop offset="0.599" stop-color="#0b1421"/>
+      <stop offset="0.721" stop-color="#05090e"/>
+      <stop offset="0.847" stop-color="#010203"/>
+      <stop offset="0.985"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.405" y1="0.899" x2="0.917" y2="-1.089" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#187570"/>
+      <stop offset="0.579" stop-color="#29c4bb"/>
+      <stop offset="1" stop-color="#29c4bb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.978" y1="0.152" x2="-0.978" y2="-0.639" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#209c95"/>
+      <stop offset="0.897" stop-color="#209c95"/>
+      <stop offset="1" stop-color="#209c95"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_163908" data-name="Grupo 163908" transform="translate(-747.313 -338.319)">
+    <g id="Grupo_163790" data-name="Grupo 163790">
+      <circle id="Elipse_5835" data-name="Elipse 5835" cx="27.839" cy="27.839" r="27.839" transform="translate(747.314 428.784) rotate(-75.357)" fill="url(#radial-gradient)"/>
+      <circle id="Elipse_5836" data-name="Elipse 5836" cx="14.048" cy="14.048" r="14.048" transform="translate(755.286 407.29) rotate(-41.182)" opacity="0.2" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+      <ellipse id="Elipse_5837" data-name="Elipse 5837" cx="14.048" cy="16.855" rx="14.048" ry="16.855" transform="matrix(0.626, -0.78, 0.78, 0.626, 762.951, 397.912)" fill="url(#radial-gradient-3)" style="mix-blend-mode: screen;isolation: isolate"/>
+    </g>
+    <g id="Grupo_163791" data-name="Grupo 163791">
+      <path id="Trazado_176837" data-name="Trazado 176837" d="M848.1,363.3l-11.493-24.981L812.6,340.665l14.142,31.161Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="Trazado_176838" data-name="Trazado 176838" d="M826.742,371.826l-17.872,9.959-12.345-23.328L812.6,340.665Z" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_176839" data-name="Trazado 176839" d="M848.1,363.3l-18.449,12.417-20.783,6.068,16.912-12.15Z" fill="#187570" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

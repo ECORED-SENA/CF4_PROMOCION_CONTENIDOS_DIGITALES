@@ -220,7 +220,7 @@
 
 .bg5
   position: relative
-  .row, figure, p, h3, .titulo-sexto.color-primario
+  .row, figure, p, h3, .titulo-sexto.color-primario, SlyderE
     position: relative
   &::before
     content: ""
@@ -244,14 +244,14 @@
     content: ""
     position: absolute
     margin-left: -48px
-    margin-top: -10em
+    margin-top: 0em
     width: calc( 100% + 96px )
-    height: 100%       
+    height: 70%       
     background-image: url('../assets/curso/temas/img20.png')
     background-size: 100% auto  
     background-repeat: no-repeat
-    background-position: center  
-
+    background-position: center
+    z-index: 0
 .bg7
   position: relative
   .row, figure, p, h3, .titulo-sexto.color-primario
@@ -273,7 +273,7 @@
   cursor: pointer           
 
 .up
-  z-index: 1
+  z-index: 2 !important
 
 .bg8
   background-color: #ECF2F2

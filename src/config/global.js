@@ -67,7 +67,7 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'El proyecto gráficon',
+        titulo: 'El proyecto gráfico',
         desarrolloContenidos: true,
       },
       {
@@ -185,7 +185,7 @@ export default {
       referencia:
         'Santana, I. (2020). La semiótica. Universidad Autónoma de Santo Domingo.',
       tipo: 'Artículo',
-      descarga: '/downloads/semiotica.pdf',
+      descarga: '/downloads/Semiotica.pdf',
     },
     {
       tema: 'Tipografía',
@@ -369,37 +369,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Camilo Andrés Bolaño Rey',
-        cargo: 'Locución',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
         nombre: 'María Carolina Tamayo López',
         cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Lina Marcela Pérez Manchego',
+        nombre: 'Ángela María Maldonado Jaime',
         cargo: 'Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Ludwyng Corzo García',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Carmen Alicia Martínez Torres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Erika Viviana Sandoval Rojas',
+        nombre: 'Laura Ximena Hurtado Villalba',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -411,7 +393,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Yenny Patricia Ulloa Villamizar',
+        nombre: 'Veimar Celis Meléndez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

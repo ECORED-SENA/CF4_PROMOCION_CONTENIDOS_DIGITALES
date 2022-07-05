@@ -46,35 +46,35 @@
           .col-lg-7
             h5 Tipografías con serifa (romanas) 
             p Su característica principal es contar con extremos, remates o terminales en los bordes de los caracteres, que son diseñados como pequeños ornamentos, pero sin tanto lujo. Poseen un halo académico o institucional y son aptas para textos largos, que van de columna en columna y de página en página, ya que los serif contribuyen a que se cree una línea imaginaria de base para cada renglón, lo cual va a facilitar el nivel de lecturabilidad para el ojo humano. 
-            p Ejemplos de fuentes tipográficas con serif: Bodoni, Times New Roman, Caslon, Bookman Old Style, Baskerville y Garamond, entre muchas otras. 
+            p Ejemplos de fuentes tipográficas con #[i serif: Bodoni, Times New Roman, Caslon, Bookman Old Style, Baskerville y Garamond], entre muchas otras. 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img145.png', alt='')    
         .row.justify-content-center.align-items-center
           .col-lg-7
             h5 Tipografías sin serifa (de palo seco)
             p También llamadas “San serif”, se caracterizan porque no tienen los serif en los remates o terminales de los caracteres. Dando como resultado un diseño muy simple, sin ningún tipo de adorno, con líneas muy rectas y con ángulos de 90 grados (preferiblemente). Es un estilo tipográfico que connota modernismo, seguridad, fuerza, imparcialidad y minimalismo. Por otro lado, es una tipografía que es precisa para formatos digitales que serán vistos por el ojo humano a través de pantallas de computador, tabletas o celulares, porque no cansan la vista y resultan más legibles, incluso en textos que presentan un tamaño pequeño. Esto se da esencialmente porque no tiene el serif.
-            p Ejemplos de fuentes tipográficas sin serifa: Helvética, Futura, Arial, Gotham o Avenir. 
+            p Ejemplos de fuentes tipográficas sin #[i serifa: Helvética, Futura, Arial, Gotham o Avenir]. 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img146.png', alt='')  
         .row.justify-content-center.align-items-center
           .col-lg-7
             h5 Tipografías manuscritas (cursivas) 
-            p Se les puede conocer como cursivas o script. Son tipografías que encarnan o copian la caligrafía manual, razón por la que a veces se les puede nombrar como tipografías caligráficas. Por lo general poseen con una tendencia itálica que se da al pegar las letras entre sí y poseen unas curvas más acentuadas que las tipografías con serifa o sin serifa. Este diseño de ligar las letras hace que connoten una personalidad más cercana y humana. 
+            p Se les puede conocer como cursivas o script. Son tipografías que encarnan o copian la caligrafía manual, razón por la que a veces se les puede nombrar como tipografías caligráficas. Por lo general poseen una tendencia itálica que se da al pegar las letras entre sí y poseen unas curvas más acentuadas que las tipografías con serifa o sin serifa. Este diseño de ligar las letras hace que connotan una personalidad más cercana y humana. 
             p Ejemplos de fuentes tipográficas manuscritas: Bickham Script, Parisienne, Brush Script y Palace Script, entre otras. 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img147.png', alt='')  
         .row.justify-content-center.align-items-center
           .col-lg-7
             h5 Tipografías decorativas (exposición) 
-            p También llamadas “Display”. Se consideran tipografías entretenidas, más frescas, y que al tener todo tipo de decoraciones presentan versatilidad, y por supuesto, connotan una gran diversidad de sensaciones. Poseen una personalidad y un carácter muy fuertes. Desde el estudio de la psicología tipográfica pueden llegar a ser transgresoras, contribuyendo así, a captar mucho la atención. Son bastante expresivas y pueden poseer atributos temáticos, por lo que son precisas para los nombres de las películas en los afiches de cine o los titulares de carteles para conciertos o eventos artísticos. Sin embargo, su desventaja puede ser la poca legibilidad, por lo que no se recomienda para textos largos ni descriptivos. Funcionan mejor en titulares cortos. 
-            p Algunos ejemplos de fuentes tipográficas Serif son: Monoton, Brightness, Pop Art, Balloons y Cinema, entre otras. 
+            p También llamadas #[i “Display”]. Se consideran tipografías entretenidas, más frescas, y que al tener todo tipo de decoraciones presentan versatilidad, y por supuesto, connotan una gran diversidad de sensaciones. Poseen una personalidad y un carácter muy fuertes. Desde el estudio de la psicología tipográfica pueden llegar a ser transgresoras, contribuyendo así, a captar mucho la atención. Son bastante expresivas y pueden poseer atributos temáticos, por lo que son precisas para los nombres de las películas en los afiches de cine o los titulares de carteles para conciertos o eventos artísticos. Sin embargo, su desventaja puede ser la poca legibilidad, por lo que no se recomienda para textos largos ni descriptivos. Funcionan mejor en titulares cortos. 
+            p Algunos ejemplos de fuentes tipográficas #[i Serif son: Monoton, Brightness, Pop Art, Balloons y Cinema], entre otras. 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img148.png', alt='')  
         .row.justify-content-center.align-items-center
           .col-lg-7
             h5 Tipografía Gótica 
             p También se conocen como “Fracturadas (fractales)” y su diseño está basado en la caligrafía del medievo, que procede del alfabeto latino. Es la tipografía usada por Johannes Gutenberg para la impresión de su Biblia de 42 líneas de Gutenberg. Con el tiempo ha ido evolucionando hacia la tipografía moderna. Sus características presentan trazos gruesos horizontales y verticales, trazos oblicuos tenues y finos, trazos cortos ascendentes y descendentes y remates con una buena elaboración. Su uso puede ser para titulares con toques históricos de importancia, como señalética en calles antiguas de ciudades históricas, diseño de packaging o bebidas que poseen una tradición histórica.
-            p Algunos ejemplos de fuentes tipográficas góticas son: Olde English, Lucida Blackletter, Blackmoor, Fraktur, Darkrise y Gothic Modern, entre otras 
+            p Algunos ejemplos de fuentes tipográficas góticas son: #[i Olde English, Lucida Blackletter, Blackmoor, Fraktur, Darkrise y Gothic Modern], entre otras 
           .col-lg-5
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img149.png', alt='')
 
@@ -83,7 +83,7 @@
       h2 6.1  Fuente tipográfica                 
     .row.justify-content-center.align-items-center.mb-5         
       .col-lg-4
-        p(data-aos="fade-down") Por su lado, la fuente tipográfica (“Font” en inglés) es la que da forma y diseño a los caracteres según sean los conceptos estructurados en la tipografía, presentando una propuesta gráfica para todo el alfabeto. El diseño de estos caracteres debe presentar unidad para que se pueda observar la familiaridad de la fuente en todas las letras, números, símbolos, etc.
+        p(data-aos="fade-down") Por su lado, la fuente tipográfica (“<i>Font</i>” en inglés) es la que da forma y diseño a los caracteres según sean los conceptos estructurados en la tipografía, presentando una propuesta gráfica para todo el alfabeto. El diseño de estos caracteres debe presentar unidad para que se pueda observar la familiaridad de la fuente en todas las letras, números, símbolos, etc.
       .col-lg-4.p-0
         img.my-3(src='@/assets/curso/temas/img150.png', alt='')
       .col-lg-4.bg15.p-3
@@ -93,8 +93,8 @@
       .col-lg-5
         img.img-a.img-t.my-3(src='@/assets/curso/temas/img152.png', alt='')            
       .col-lg-7
-        p(data-aos="fade-down") Los tipos de archivo más usados son TrueType (.ttf) y OpenType (.otf). Es muy fácil poder hacer la instalación de una fuente nueva y poderla trabajar en cualquier software que esté instalado en el computador.
-        p(data-aos="fade-down") El diseño de cada fuente puede tener su propia personalidad, pero es importante que al crearla corresponda con las características correspondientes de la tipografía elegida. Por ejemplo, si el diseñador eligió la tipografía “Sans Serif”, entonces deberá tener en cuenta las propiedades, el concepto y las características de este tipo de letra para comenzar a diseñar su modelo.
+        p(data-aos="fade-down") Los tipos de archivo más usados son <i>TrueType</i> (.ttf) y <i>OpenType</i> (.otf). Es muy fácil poder hacer la instalación de una fuente nueva y poderla trabajar en cualquier <i>software</i> que esté instalado en el computador.
+        p(data-aos="fade-down") El diseño de cada fuente puede tener su propia personalidad, pero es importante que al crearla corresponda con las características correspondientes de la tipografía elegida. Por ejemplo, si el diseñador eligió la tipografía “<i>Sans Serif</i>”, entonces deberá tener en cuenta las propiedades, el concepto y las características de este tipo de letra para comenzar a diseñar su modelo.
 
     Separador 
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -201,7 +201,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t(src='@/assets/curso/temas/img168.svg' alt='AvatarTop')
-            p.text-center El #[i lettering] puede ser realizado a mano con marcadores, colores y/o pinceles, y también puede ser creado de manera digital a través de programas como Coreldraw o Illustrator.
+            p.text-center El #[i lettering] puede ser realizado a mano con marcadores, colores y/o pinceles, y también puede ser creado de manera digital a través de programas como #[i Coreldraw] o #[i Illustrator].
 
     .row.justify-content-start.align-items-center.mb-4(data-aos="flip-down")
       .col-lg-2.up
@@ -209,24 +209,24 @@
     p(data-aos="fade-down").mb-5 Los siguiente son algunos de los tipos de #[i lettering] que existen:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade-left")
-      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="Brush <i>lettering</i>")
+      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="<i>Brush lettering</i>")
         .col-lg-7
           p Posee un estilo de escritura que es parecido a la caligrafía. Se conoce usualmente como caligrafía moderna debido al uso de la presión y el aspecto de los caracteres que exponen el efecto caligráfico con trazos gruesos y delgados según sea la inclinación o curva de las letras.  
         .col-lg-5 
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img169.png', alt='')   
-      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="Chalk <i>lettering</i>")
+      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="<i>Chalk lettering</i>")
         .col-lg-7
           p Usa una pizarra o tablero para diseñar frases maravillosas (o la idea es que el mensaje aparente estar diseñado sobre la pizarra). Se considera una obra de arte muy complicada que se volvió popular por uso frecuente en boutiques, supermercados y cafés. En la actualidad, goza de popularidad en redes sociales como por ejemplo Instagram y Pinterest, donde se exhiben diseños artísticos y publicitarios.   
         .col-lg-5 
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img170.png', alt='')  
-      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="Hand <i>lettering</i>")
+      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="<i>Hand lettering</i>")
         .col-lg-7
           p Es el arte de dibujar las letras a mano. Es diferente a la caligrafía porque en este tipo cada letra o carácter debe ser pensado de manera cuidadosa. Por lo tanto, el diseño de cada letra sólo se hace para la ocasión y no para un alfabeto completo. Es decir, se piensa en cada palabra, cómo connotarla desde lo gráfico y en cómo encajarla en la diagramación.  
         .col-lg-5 
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img171.png', alt='')  
-      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="<i>Lettering</i> digital")
+      .row.justify-content-center.align-items-top.px-5.pb-4(titulo="<i>Lettering digital</i>")
         .col-lg-7
-          p Cuando el diseño del <i>lettering</i> es realizado por computador o incluso tableta, principalmente a través de programas como Coreldraw o Illustrator. Incluso hasta Photoshop; lo ideal es que el software tenga la posibilidad de usar cualquier herramienta en la que se pueda dibujar de manera libre con pinceles que tengan diferente grosor y color. Para comenzar desde los digital, se sugiere tener práctica con el <i>lettering</i> a mano.   
+          p Cuando el diseño del <i>lettering</i> es realizado por computador o incluso tableta, principalmente a través de programas como <i>Coreldraw</i> o <i>Illustrator</i>. Incluso hasta <i>Photoshop</i>; lo ideal es que el <i>software</i> tenga la posibilidad de usar cualquier herramienta en la que se pueda dibujar de manera libre con pinceles que tengan diferente grosor y color. Para comenzar desde los digital, se sugiere tener práctica con el <i>lettering</i> a mano.   
         .col-lg-5 
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img172.png', alt='')                                   
 </template>

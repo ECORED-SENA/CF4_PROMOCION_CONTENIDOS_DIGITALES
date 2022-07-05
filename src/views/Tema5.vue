@@ -85,14 +85,14 @@
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Infografías 
-            p Es una colección de imágenes, datos, líneas de tiempo, gráficos (barra, columnas, línea, circulares, etc.) y texto simple (minimalista) que sintetiza un tema de tal forma que pueda comprendido claramente. Representan una herramienta de mucho valor para la comunicación visual porque brindan la información con muy poco texto y con un gran impacto visual. 
+            p Es una colección de imágenes, datos, líneas de tiempo, gráficos (barra, columnas, línea, circulares, etc.) y texto simple (minimalista) que sintetiza un tema de tal forma que pueda ser comprendido claramente. Representan una herramienta de mucho valor para la comunicación visual porque brindan la información con muy poco texto y con un gran impacto visual. 
           .col-lg-6
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img117.png', alt='')    
 
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Diagramas de proceso  
-            p Sirven para representar gráficamente de los más importantes procesos que se llevan a cabo en una compañía o en un proyecto, mostrando un orden con sus respectivas interrelaciones. Expone la secuencia e interacción de las actividades de los procesos a través de formas gráficas, usando símbolos que suministran una visualización nítida de su funcionamiento, con el fin de ayudar a su comprensión de una forma más visual e intuitiva.  
+            p Sirven para representar gráficamente los más importantes procesos que se llevan a cabo en una compañía o en un proyecto, mostrando un orden con sus respectivas interrelaciones. Expone la secuencia e interacción de las actividades de los procesos a través de formas gráficas, usando símbolos que suministran una visualización nítida de su funcionamiento, con el fin de ayudar a su comprensión de una forma más visual e intuitiva.  
           .col-lg-6
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img118.png', alt='')  
 
@@ -120,7 +120,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Informes visuales 
-            p Permiten exponer datos de un proyecto a manera de tabla dinámica. Hay herramientas que brindan la posibilidad de poderlos diseñar, desde programas especializados como Coreldraw, Illustrator, Word o Excel, hasta plantillas digitales en la web que ya poseen un diseño y que, además, se pueden personalizar.  
+            p Permiten exponer datos de un proyecto a manera de tabla dinámica. Hay herramientas que brindan la posibilidad de poderlos diseñar, desde programas especializados como <i>Coreldraw, Illustrator, Word o Excel</i>, hasta plantillas digitales en la web que ya poseen un diseño y que, además, se pueden personalizar.  
           .col-lg-6
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img122.png', alt='')  
 
@@ -146,7 +146,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-8
               h4(data-aos="fade-down") Volantes comerciales y revistas 
-              p(data-aos="fade-down") Los flyers, las revistas y los folletos comerciales también están llenos de imágenes que motivan al cliente a una acción de compra, bien sea de un producto o servicio.
+              p(data-aos="fade-down") Los <i>flyers</i>, las revistas y los folletos comerciales también están llenos de imágenes que motivan al cliente a una acción de compra, bien sea de un producto o servicio.
             .col-lg-4.my-3 
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img125.png', alt='')    
           .row.justify-content-center.align-items-center
@@ -182,7 +182,7 @@
             .tarjeta.color-secundario.p-3(x="31.2%" y="42.2%" numero="+")
               p.s #[b.s Receptor:] cliente o persona que recibe esa información expresada por el emisor. 
             .tarjeta.color-secundario.p-3(x="39%" y="16.5%" numero="+")
-              p.s #[b.s Feed-back:] se logra cuando hay intercambio de ideas. Cuando el receptor decide conversar con el emisor, confirmando que la comunicación está logrando su cometido.
+              p.s #[b #[i.s Feed-back:]] se logra cuando hay intercambio de ideas. Cuando el receptor decide conversar con el emisor, confirmando que la comunicación está logrando su cometido.
             .tarjeta.color-secundario.p-3(x="46%" y="32%" numero="+")
               p.s #[b.s Código:] se refiere al lenguaje usado donde existen estilos de palabras, signos escritos e incluso gestos.   
             .tarjeta.color-secundario.p-3(x="47.6%" y="23%" numero="+")

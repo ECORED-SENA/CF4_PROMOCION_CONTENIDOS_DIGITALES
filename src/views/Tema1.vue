@@ -49,29 +49,29 @@
           .tarjeta-numerada__numero
             .h2
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img7.svg', alt='')
-          p.mt-4.text-center #[b Eliminación de spam] 
-          p.mt-3 Este procedimiento elimina los denominados correo basura, esta decisión la toma el administrador de la comunidad, el propósito es mantener una comunidad con contenido limpio.
+          p.mt-4.text-center #[b Insight] 
+          p.mt-3 Analizar el problema o la situación que desea la marca quiere solucionar.
     
         .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-right")
           .tarjeta-numerada__numero
             .h2
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img8.svg', alt='')
-          p.mt-4.text-center #[b Bloquear a los trolls]        
-          p.mt-3 Este procedimiento consiste en la identificación de aquellos miembros de la comunidad que son considerados como molestos, por el contenido que suministran constantemente en los diferentes espacios de interacción e inmediatamente son bloqueados por el administrador de la comunidad.  
+          p.mt-4.text-center #[b Brainstorming]        
+          p.mt-3 Lluvia de ideas a través de un pensamiento colectivo, donde participe todo un equipo de trabajo. 
 
         .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-left")
           .tarjeta-numerada__numero
             .h2
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img9.svg', alt='')
-          p.mt-4.text-center #[b Eliminación de las discusiones que estén fuera del tema]       
-          p.mt-3 Este procedimiento consiste en la eliminación de aquellas conversaciones que no hacen parte del tema de discusión, no es eliminar al participante de la comunidad es mantener contenido limpio y relevante durante el espacio de interacción.
+          p.mt-4.text-center #[b Momentos de inspiración]       
+          p.mt-3 Aprovechar esos instantes en los que la creatividad brota, lo cual se convierte en algo de mucho valor para el desarrollo de un buen concepto creativo.
 
         .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-right")
           .tarjeta-numerada__numero
             .h2            
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img10.svg', alt='')
-          p.mt-4.text-center #[b Resolver conflictos]       
-          p.mt-3 Este procedimiento permite la intervención del administrador de la comunidad con el propósito de mantener un límite o frontera durante una discusión, en la cual los contenidos pueden estar fuera del contexto y de las normas que rigen la comunidad.     
+          p.mt-4.text-center #[b Moodboard]       
+          p.mt-3 Es un soporte que puede ser de formato físico (tablero) o digital (software para anotar), en el que se recomienda ir sumando todo lo que vaya apareciendo durante el proceso de creación del concepto creativo.    
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9.cajon.color-primario.p-4
@@ -92,9 +92,9 @@
         .col-lg-7
           p(data-aos="fade-down") El contenido de estas plataformas es variado y a continuación se presentan algunos ejemplos y definiciones de ellas: 
           LineaTiempoD.color-primario(data-aos="fade-left")
-            .row(numero="1" titulo="Copy estrategy")
+            .row(numero="1" titulo="<i>Copy estrategy</i>")
               .col-11
-                p Estrategia de redacción de textos que precisa la línea de comunicación. Contribuye a tener clara la visión sobre el público al que va dirigida la información, el tipo de anuncio a emplear, el estilo, el lenguaje y el tono de la comunicación. Debe conocer cuáles son los objetivos de marketing y de comunicación que tiene la marca. Finalmente, debe tener claridad sobre las características técnicas que va a tener la campaña (estrategias y tácticas). Es la idea central sobre la va a girar cualquier pieza gráfica que se vaya a diseñar, capaz de expresarse apelando, bien sea a la razón o a la emoción.
+                p Estrategia de redacción de textos que precisa la línea de comunicación. Contribuye a tener clara la visión sobre el público al que va dirigida la información, el tipo de anuncio a emplear, el estilo, el lenguaje y el tono de la comunicación. Debe conocer cuáles son los objetivos de #[i marketing] y de comunicación que tiene la marca. Finalmente, debe tener claridad sobre las características técnicas que va a tener la campaña (estrategias y tácticas). Es la idea central sobre la va a girar cualquier pieza gráfica que se vaya a diseñar, capaz de expresarse apelando, bien sea a la razón o a la emoción.
             .row(numero="2" titulo="Eslogan")
               .col-11
                 p Es la frase que por lo general acompaña el distintivo visual y que con muy poco texto sintetiza la esencia de la marca y el beneficio para el cliente. 

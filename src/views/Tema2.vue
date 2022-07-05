@@ -70,39 +70,39 @@
                 img(src='@/assets/curso/temas/img21.svg', alt='imagen infográfica')
             .tarjeta.color-acento-botones.p-3(x="21.5%" y="39.5%" numero="+")
               .text-center            
-                h5 Sustituir: 
-                p suplantar cosas, zonas, operaciones, personas, conceptos, funciones, horarios.
+                h5 Sustituir 
+                p Suplantar cosas, zonas, operaciones, personas, conceptos, funciones, horarios.
             .tarjeta.color-acento-botones.p-3(x="31%" y="39.5%" numero="+")
               .text-center            
-                h5 Combinar: 
-                p ajustar temas, percepciones, conceptos, emociones, funciones.
+                h5 Combinar 
+                p Ajustar temas, percepciones, conceptos, emociones, funciones.
             .tarjeta.color-acento-botones.p-3(x="40.5%" y="50.7%" numero="+")
               .text-center            
-                h5 Adaptar: 
-                p adecuar conceptos de otros contextos, épocas, zonas, individuos.
+                h5 Adaptar 
+                p Adecuar conceptos de otros contextos, épocas, zonas, individuos.
             .tarjeta.color-acento-botones.p-3(x="50.8%" y="53%" numero="+")
               .text-center            
-                h5 Modificar: 
-                p sumar algo a un concepto o producto, para transformarlo.
+                h5 Modificar 
+                p Sumar algo a un concepto o producto, para transformarlo.
             .tarjeta.color-acento-botones.p-3(x="58.3%" y="53%" numero="+")
               .text-center            
-                h5 Proponer: 
-                p plantear que el producto pueda ser usado de otras formas. Descubrir las posibilidades ocultas que pueden tener las cosas, de tal forma que se puedan lograr nuevas opciones de uso.
+                h5 Proponer 
+                p Plantear que el producto pueda ser usado de otras formas. Descubrir las posibilidades ocultas que pueden tener las cosas, de tal forma que se puedan lograr nuevas opciones de uso.
             .tarjeta.color-acento-botones.p-3(x="70%" y="54.5%" numero="+")
               .text-center            
-                h5 Eliminar: 
-                p excluir conceptos, fragmentos, elementos del problema, usos, tecnología.
+                h5 Eliminar 
+                p Excluir conceptos, fragmentos, elementos del problema, usos, tecnología.
             .tarjeta.color-acento-botones.p-3(x="78.3%" y="39.5%" numero="+")
               .text-center
-                h5 Reordenar: 
-                p invertir procesos, elementos, cambiarlos de lugar, hacer lo contrario, cambiar los roles.
+                h5 Reordenar 
+                p Invertir procesos, elementos, cambiarlos de lugar, hacer lo contrario, cambiar los roles.
     .bg7
       .row.justify-content-start.align-items-center.mb-4(data-aos="flip-down")
         .col-lg-3.up
           h4.title.text-center.p-2 Técnica de Mapas mentales
       .row.justify-content-center.align-items-center.mb-5        
         .col-lg-6
-          p(data-aos="fade-down") Tony Buzan fue el creador de esta técnica gráfica, investigador en el campo de la inteligencia y presidente de la empresa Brain Foundation. Muy útil para la incubación de ideas por asociación y para ordenar la información. Para aplicarla describimos cuál es el centro el problema o el reto que se debe lograr, y de ahí se desprenden los temas concernientes a ese problema o reto generando así una estructura nodal. De esos temas pueden partir imágenes o palabras claves que son trazadas sobre líneas abiertas.
+          p(data-aos="fade-down") Tony Buzan fue el creador de esta técnica gráfica, investigador en el campo de la inteligencia y presidente de la empresa <i>Brain Foundation</i>. Muy útil para la incubación de ideas por asociación y para ordenar la información. Para aplicarla describimos cuál es el centro el problema o el reto que se debe lograr, y de ahí se desprenden los temas concernientes a ese problema o reto generando así una estructura nodal. De esos temas pueden partir imágenes o palabras claves que son trazadas sobre líneas abiertas.
         .col-lg-6
           img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img23.png', alt='') 
 

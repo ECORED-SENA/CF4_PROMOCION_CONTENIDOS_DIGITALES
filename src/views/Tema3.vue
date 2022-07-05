@@ -12,7 +12,7 @@
           .row.justify-content-start.align-items-center
             .col-lg-7 
               p(data-aos="fade-down").mb-0 
-                span.b #[b López Carreño (2017)] 
+                span.b #[b López Carreño (2017) ]  
                 span expresa que las fuentes de información son de diversos tipos de documentos que agrupan una serie de datos que satisfacen una demanda de información o conocimiento. Pueden ser de diversos tipos y pueden ofrecer datos más o menos fidedignos, lo cual influye de manera definitiva y concluyente en los resultados que se van a lograr. Con la investigación se puede conseguir información, por eso es vital conocer cómo almacenar la información de la manera más confiable posible.
 
     .row.justify-content-center.align-items-center.bg10-1.p-4.d-block.d-lg-none
@@ -58,7 +58,7 @@
         .col-lg-2.up
           h4.title.text-center.p-2 Tipos
     p(data-aos="fade-down").mb-5 Según 
-      span.b #[b Blázquez Ochando (2015)] 
+      span.b #[b Blázquez Ochando (2015) ] 
       span las fuentes de información se dividen en tres tipos:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade-left")

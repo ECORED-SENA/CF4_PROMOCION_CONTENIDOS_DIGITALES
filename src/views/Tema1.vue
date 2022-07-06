@@ -49,14 +49,14 @@
           .tarjeta-numerada__numero
             .h2
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img7.svg', alt='')
-          p.mt-4.text-center #[b Insight] 
+          p.mt-4.text-center #[b #[i Insight]] 
           p.mt-3 Analizar el problema o la situación que desea la marca quiere solucionar.
     
         .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-right")
           .tarjeta-numerada__numero
             .h2
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img8.svg', alt='')
-          p.mt-4.text-center #[b Brainstorming]        
+          p.mt-4.text-center #[b #[i Brainstorming]]        
           p.mt-3 Lluvia de ideas a través de un pensamiento colectivo, donde participe todo un equipo de trabajo. 
 
         .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-secundario.p-4(data-aos="fade-left")
@@ -70,8 +70,8 @@
           .tarjeta-numerada__numero
             .h2            
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img10.svg', alt='')
-          p.mt-4.text-center #[b Moodboard]       
-          p.mt-3 Es un soporte que puede ser de formato físico (tablero) o digital (software para anotar), en el que se recomienda ir sumando todo lo que vaya apareciendo durante el proceso de creación del concepto creativo.    
+          p.mt-4.text-center #[b #[i Moodboard]]       
+          p.mt-3 Es un soporte que puede ser de formato físico (tablero) o digital (#[i software] para anotar), en el que se recomienda ir sumando todo lo que vaya apareciendo durante el proceso de creación del concepto creativo.    
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9.cajon.color-primario.p-4
@@ -90,11 +90,10 @@
         .col-lg-5
           img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img13.png', alt='')
         .col-lg-7
-          p(data-aos="fade-down") El contenido de estas plataformas es variado y a continuación se presentan algunos ejemplos y definiciones de ellas: 
           LineaTiempoD.color-primario(data-aos="fade-left")
             .row(numero="1" titulo="<i>Copy estrategy</i>")
               .col-11
-                p Estrategia de redacción de textos que precisa la línea de comunicación. Contribuye a tener clara la visión sobre el público al que va dirigida la información, el tipo de anuncio a emplear, el estilo, el lenguaje y el tono de la comunicación. Debe conocer cuáles son los objetivos de #[i marketing] y de comunicación que tiene la marca. Finalmente, debe tener claridad sobre las características técnicas que va a tener la campaña (estrategias y tácticas). Es la idea central sobre la va a girar cualquier pieza gráfica que se vaya a diseñar, capaz de expresarse apelando, bien sea a la razón o a la emoción.
+                p Estrategia de redacción de textos que precisa la línea de comunicación. Contribuye a tener clara la visión sobre el público al que va dirigida la información, el tipo de anuncio a emplear, el estilo, el lenguaje y el tono de la comunicación. Debe conocer cuáles son los objetivos de #[i marketing] y de comunicación que tiene la marca. Finalmente, debe tener claridad sobre las características técnicas que va a tener la campaña (estrategias y tácticas). Es la idea central sobre la que va a girar cualquier pieza gráfica que se vaya a diseñar, capaz de expresarse apelando, bien sea a la razón o a la emoción.
             .row(numero="2" titulo="Eslogan")
               .col-11
                 p Es la frase que por lo general acompaña el distintivo visual y que con muy poco texto sintetiza la esencia de la marca y el beneficio para el cliente. 
@@ -105,7 +104,7 @@
       .bg2.p-3(data-aos="fade-left")
         .row.justify-content-start.align-items-center
           .col-lg-10
-            p(data-aos="fade-down").mb-0 Se debe tener claro que el propósito del concepto creativo publicitario es motivar al público objetivo a realizar una compra. La creatividad publicitaria tiene que despertar en el cliente el deseo de comprarlo. Es por esto que en la mayoría de las ocasiones, y en cualquier campaña de comunicación, el briefing en el que se exigen resultados medibles es vital.                 
+            p(data-aos="fade-down").mb-0 Se debe tener claro que el propósito del concepto creativo publicitario es motivar al público objetivo a realizar una compra. La creatividad publicitaria tiene que despertar en el cliente el deseo de comprarlo. Es por esto que en la mayoría de las ocasiones, y en cualquier campaña de comunicación, el <i>briefing</i> en el que se exigen resultados medibles es vital.                 
           .col-auto.d-none.d-lg-block.p-0.ps-3
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img14.png', alt='') 
 

@@ -7,7 +7,7 @@
         span 2
       h1 Técnicas de creatividad
     p(data-aos="fade-down").mb-4
-      span.b #[b Marín González (2010)] 
+      span.b #[b Marín González (2010) ] 
       span expresa que la creatividad es un proceso que es dinámico, es un elemento de vital importancia para el ser humano; gracias a la creatividad la sociedad, las personas y las empresas han podido ir evolucionando para beneficio propio. 
     .row.justify-content-start.align-items-center.mb-4(data-aos="flip-down")
       .col-lg-2.up
@@ -32,7 +32,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Técnica del #[i Brainwriting]
-            p Es una variante escrita del Brainstorming. Regularmente se emplea con grupos de personas que no se conocen, que tiene problemas de expresión o con equipos donde ha jerarquías evidentes que evitan a muchos de los presentes poder generar idear ante la presencia de los directores. 
+            p Es una variante escrita del Brainstorming. Regularmente se emplea con grupos de personas que no se conocen, que tiene problemas de expresión o con equipos donde hay jerarquías evidentes que evitan a muchos de los presentes poder generar ideas ante la presencia de los directores. 
 
             p En esta técnica se usan varias hojas de papel en las que los participantes escriben y explican las ideas de manera anónima para luego ser compartidas al resto del equipo.
           .col-lg-6
@@ -40,7 +40,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Técnica de la Provocación
-            p Este método radica en la creación de pensamientos ilógicos que lleven a la mente afuera de los pensamientos preestablecidos, pensamientos que luego serán analizado de una forma racional. 
+            p Este método radica en la creación de pensamientos ilógicos que lleven a la mente afuera de los pensamientos preestablecidos, pensamientos que luego serán analizados de una forma racional. 
 
             p Es por esto que se basa en la formulación de provocaciones, o sea, ideas que no tienen sentido, como, por ejemplo, que las vacas vuelan o que el oxígeno es de color morado. 
           .col-lg-6
@@ -48,7 +48,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6
             h4 Técnica Listado de Atributos
-            p R.P. Crawford fue quien ideó esta técnica, la cual es muy útil para logra la mejoría productos existentes, y consiste en tres pasos: 
+            p R.P. Crawford fue quien ideó esta técnica, la cual es muy útil para lograr la mejoría productos existentes, y consiste en tres pasos: 
 
             p #[b Primero], se hace un listado de las características o atributos del producto que se desea mejorar. 
 
@@ -61,7 +61,7 @@
     .bg6
       p(data-aos="fade-down").mb-5.pt-5
         span.b #[b Técnica SCAMPER: ] 
-        span Es otra técnica que sirve para la mejoría de productos o servicios existentes, pero a través de una mezcla de varias técnicas. Consiste en una lista de preguntas que invita a pensar nuevas alternativas:
+        span es otra técnica que sirve para la mejoría de productos o servicios existentes, pero a través de una mezcla de varias técnicas. Consiste en una lista de preguntas que invita a pensar nuevas alternativas:
       .row.justify-content-center.align-items-center
         .col-lg-12.up
           ImagenInfografica.color-acento-botones.mb-5

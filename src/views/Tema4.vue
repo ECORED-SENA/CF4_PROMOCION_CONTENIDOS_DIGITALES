@@ -30,7 +30,7 @@
               p El proyecto gráfico es el plan inicial que va a definir las características visuales de una pieza gráfica. Es un conjunto de elementos que conforman y dan características a las piezas gráficas que pueden ser expuestas a través de los medios de información. Los proyectos gráficos pueden ser de campañas publicitarias, identidad corporativa, diseño de empaques, diseño editorial, publicaciones, sitios web, señalización interna, etc. 
               .cajon.color-primario.p-4.mb-4
                 p(data-aos="fade-down").mb-0 Un buen proyecto gráfico es el que impacta al consumidor por su buen diseño y creatividad. Las imágenes, el uso del color y las retículas, el tamaño de las fuentes tipográficas, la posición de los titulares y todos los elementos visuales que hagan parte de una pieza gráfica deben ser apropiadamente pensados con el fin de satisfacer una necesidad comunicacional por parte del cliente.         
-          p(data-aos="fade-down") Un proyecto gráfico se constituye a través de una serie de estructuras que dan forma a su lógica constructiva. Estas estructuras son las que van a dar el aspecto visual (imagen), el layout (diseño, colores, tipografía, etc.), así como su semblante editorial (textos, lenguaje, información). Por lo general, antes de comenzar cualquier proyecto gráfico se debe tener en cuenta el <i>Brief</i>, que es un documento en el que se encuentra toda la información del cliente, como, por ejemplo, antecedentes de la marca, filosofía empresarial, objetivos de la marca, productos, servicios, características, beneficios, diferencia competitiva, análisis de la competencia, público objetivo, etc. El objetivo del <i>Brief</i> es destacar algunas situaciones que pueden servir como herramientas importantes para la creación del proyecto. 
+          p(data-aos="fade-down") Un proyecto gráfico se constituye a través de una serie de estructuras que dan forma a su lógica constructiva. Estas estructuras son las que van a dar el aspecto visual (imagen), el <i>layout</i> (diseño, colores, tipografía, etc.), así como su semblante editorial (textos, lenguaje, información). Por lo general, antes de comenzar cualquier proyecto gráfico se debe tener en cuenta el <i>Brief</i>, que es un documento en el que se encuentra toda la información del cliente, como, por ejemplo, antecedentes de la marca, filosofía empresarial, objetivos de la marca, productos, servicios, características, beneficios, diferencia competitiva, análisis de la competencia, público objetivo, etc. El objetivo del <i>Brief</i> es destacar algunas situaciones que pueden servir como herramientas importantes para la creación del proyecto. 
       .row.justify-content-start.align-items-center.mb-4        
         .col-auto.d-none.d-lg-block.p-0.ps-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img56.png', alt='')       
@@ -307,7 +307,7 @@
 
         .row.justify-content-center.align-items-top.px-5.pb-4(titulo="Anuncios de revista")
           .col-lg-7
-            p Pieza gráfica impresa que tiene como ventajas poder seleccionar mejor a la audiencia meta (hay revistas especializada en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc.) y poseer una impresión de lujo de alta calidad. Las revistas, así como los periódicos, también son medios masivos. 
+            p Pieza gráfica impresa que tiene como ventajas poder seleccionar mejor a la audiencia meta (hay revistas especializadas en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc.) y poseer una impresión de lujo de alta calidad. Las revistas, así como los periódicos, también son medios masivos. 
           .col-lg-5 
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img83.png', alt='')   
 
@@ -323,7 +323,7 @@
 
         .row.justify-content-center.align-items-top.px-5.pb-4(titulo="<i>Brochure</i>")
           .col-lg-7
-            p Pieza gráfica que tiene formas versátiles, como por ejemplo desde un folleto o documento gráfico e informativo que exhibe información promocional sobre los bienes y servicios de una marca, hasta el diseño de dípticos y trípticos (plegables de dos y tres cuerpos) que igual, sirven para hacer promoción. Esta pieza puede ser diseñada de manera impresa o digital. Si es impresa, para enviar de manera directa al cliente potencial; si es digital, para ser compartida con su público a través del correo electrónico, redes sociales e incluso el <i>Whatsapp</i>. 
+            p Pieza gráfica que tiene formas versátiles, como por ejemplo desde un folleto o documento gráfico e informativo que exhibe información promocional sobre los bienes y servicios de una marca, hasta el diseño de dípticos y trípticos (plegables de dos y tres cuerpos) que igual, sirven para hacer promoción. Esta pieza puede ser diseñada de manera impresa o digital. Si es impresa, para enviar de manera directa al cliente potencial; si es digital, para ser compartida con su público a través del correo electrónico, redes sociales e incluso el <i>WhatsApp</i>. 
           .col-lg-5 
             img.img-a.img-t.my-3(src='@/assets/curso/temas/img85.png', alt='')   
 
@@ -379,7 +379,7 @@
             .col-auto.d-none.d-lg-block.p-0.ps-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img91.png', alt='')       
             .col-lg-10
-              p(data-aos="fade-down").mb-0 Por otro lado, hay que entender que el dueño de una obra gráfica no es quien la paga, sino quien la diseña. Por ejemplo, el distintivo visual fue diseñado por el creativo, y fue pagado por una empresa. La empresa, por supuesto, lo usará para hacer promoción de su empresa. Pero si en algún momento ese distintivo se hace famoso y lo van a incluir en un libro de diseños de distintivos no sólo le deben pedir permiso a la marca, sino también al creativo que lo diseñó, porque es el autor intelectual.                            
+              p(data-aos="fade-down").mb-0 Por otro lado, hay que entender que el dueño de una obra gráfica no es quien la paga, sino quien la diseña. Por ejemplo, el distintivo visual fue diseñado por el creativo, y fue pagado por una empresa. La empresa, por supuesto, lo usará para hacer promoción de su empresa. Pero si en algún momento ese distintivo se hace famoso y lo van a incluir en un libro de diseños de distintivos no solo le deben pedir permiso a la marca, sino también al creativo que lo diseñó, porque es el autor intelectual.                            
         .col-lg-3.up
           img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img92.png', alt='')  
 
@@ -388,7 +388,7 @@
           img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img93.png', alt='')        
         .col-lg-9.up
           .bg15.p-3.mb-4
-            p(data-aos="fade-down").mb-0 Los derechos de autor instauran que el creativo, como autor, tiene derecho a elegir si la obra puede ser divulgada y de qué forma. De igual forma, tiene derecho a requerir el respeto a la integridad de la obra e imposibilitar cualquier cambio, reforma o variación en ésta. Por lo tanto, si la empresa más adelante desea hacer un ajuste al distintivo visual, tendrá que contar con la autorización del creativo, o si no, cambiarlo del todo, es decir, que no exista una reforma.
+            p(data-aos="fade-down").mb-0 Los derechos de autor instauran que el creativo, como autor, tiene derecho a elegir si la obra puede ser divulgada y de qué forma. De igual forma, tiene derecho a requerir el respeto a la integridad de la obra e imposibilitar cualquier cambio, reforma o variación en esta. Por lo tanto, si la empresa más adelante desea hacer un ajuste al distintivo visual, tendrá que contar con la autorización del creativo, o si no, cambiarlo del todo, es decir, que no exista una reforma.
 
           p(data-aos="fade-down") Esto mismo ocurre sobre cualquier pieza gráfica. En diseño gráfico y publicidad, principalmente en piezas como las fotografías o como los jingles, que son temas sonoros que distinguen una marca o un producto como por ejemplo Coordinadora, Fotón, La Fina, entre otros. En ocasiones, una marca usa una canción que fue éxito comercial para hacerle alguna reforma textual desde el contexto empresarial, y de esta manera, hacerse promoción. En este caso, se le debe pagar al compositor del tema para poder hacer uso de la canción y poderla reformar según el contexto de la marca.
 
@@ -412,66 +412,66 @@
       .col-lg-3.up
         img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img96.png', alt='')  
 
-    .bg16.mb-5
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-6
-          img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img98.png', alt='')        
-        .col-lg-6
-          p(data-aos="fade-down") Finalmente, está el tema del derecho a cita, que está muy claro en la letra impresa. Por ejemplo, un escritor está escribiendo un libro sobre los diseños clásicos del siglo XX. Este escritor leyó información relevante en un libro que encontró en una biblioteca, y por lo tanto tiene la obligación de citar el texto que le sirvió como consulta para enriquecer su contenido sin tener que pagar ningún dinero, y en este caso, ni siquiera pedir algún permiso, basta con la sola cita bibliográfica. Si termina siendo un éxito comercial, el dinero es para el escritor autor del libro sobre diseños clásicos del siglo XX. El autor que él tuvo en cuenta en el libro que leyó en la biblioteca no recibe ningún dinero. 
-          span.b #[b (Casacuberta, Castells, & Llop, 2004)]
 
-      .row.justify-content-start.align-items-center.mb-5      
-        .col-auto.d-none.d-lg-block.p-0.ps-3
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img99.png', alt='')       
-        .col-lg-10
-          p(data-aos="fade-down").mb-0 Según 
-            span.b #[b Hernández Barrueco (2020)]
-            span , todo aquel que no quiera comercializar los derechos de sus obras y deciden mejor dar una autorización de manera personal una copia, difusión o divulgación de su creación puede apelar a los registros <i>Creative Commons</i> (CC) con el objetivo de lograr una estandarización a los permisos.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6
+        img.img-a.img-t.my-3(data-aos="zoom-in")(src='@/assets/curso/temas/img98.png', alt='')        
+      .col-lg-6
+        p(data-aos="fade-down") Finalmente, está el tema del derecho a cita, que está muy claro en la letra impresa. Por ejemplo, un escritor está escribiendo un libro sobre los diseños clásicos del siglo XX. Este escritor leyó información relevante en un libro que encontró en una biblioteca, y por lo tanto tiene la obligación de citar el texto que le sirvió como consulta para enriquecer su contenido sin tener que pagar ningún dinero, y en este caso, ni siquiera pedir algún permiso, basta con la sola cita bibliográfica. Si termina siendo un éxito comercial, el dinero es para el escritor autor del libro sobre diseños clásicos del siglo XX. El autor que él tuvo en cuenta en el libro que leyó en la biblioteca no recibe ningún dinero. 
+        span.b #[b (Casacuberta, Castells, & Llop, 2004)]
 
-      p(data-aos="fade-down").mb-5 Los derechos CC son irrevocables, es decir, para toda la vida. En la actualidad se tiene seis (6) licencias CC que son gratuitas y que poseen vigencia a nivel global: 
+    .row.justify-content-start.align-items-center.mb-5      
+      .col-auto.d-none.d-lg-block.p-0.ps-3
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img99.png', alt='')       
+      .col-lg-10
+        p(data-aos="fade-down").mb-0 Según 
+          span.b #[b Hernández Barrueco (2020)]
+          span , todo aquel que no quiera comercializar los derechos de sus obras y deciden mejor dar una autorización de manera personal una copia, difusión o divulgación de su creación puede apelar a los registros <i>Creative Commons</i> (CC) con el objetivo de lograr una estandarización a los permisos.
 
-      .row.justify-content-center.align-items-center
-        .col-lg-10
-          PasosA.color-acento-contenido(tipo="n")(data-aos="fade-right")
-            .row.justify-content-center.align-items-center
-              .col-lg-8
-                h4(data-aos="fade-down") Reconocimiento (by)
-                p(data-aos="fade-down") Significa que es permitida toda explotación de la obra, incluso si posee un fin comercial, así como la creación de obras que resulten de una derivación del original. Se permite su distribución sin ninguna limitación.
-              .col-lg-4.my-3 
-                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img100.png', alt='')
+    p(data-aos="fade-down").mb-5 Los derechos CC son irrevocables, es decir, para toda la vida. En la actualidad se tiene seis (6) licencias CC que son gratuitas y que poseen vigencia a nivel global: 
 
-            .row.justify-content-center.align-items-center
-              .col-lg-4.my-3 
-                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img101.png', alt='')
-              .col-lg-8.text-start
-                h4(data-aos="fade-down") Reconocimiento - No Comercial (by-nc)
-                p(data-aos="fade-down") Significa que es permitida la creación de obras derivadas, pero no se puede hacer un uso comercial de ellas. Por otro lado, tampoco se puede usar la creación original con un fin comercial. 
-            .row.justify-content-center.align-items-center
-              .col-lg-8
-                h4(data-aos="fade-down") Reconocimiento - No Comercial - Compartir Igual (by-nc-sa)
-                p(data-aos="fade-down") Significa que se prohíbe el uso comercial de la creación original ni tampoco de creaciones que resulten de una derivación del original. Se permite la distribución de las creaciones derivadas con una licencia equivalente a la que regula la creación original. 
-              .col-lg-4.my-3 
-                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img102.png', alt='')
+    .row.justify-content-center.align-items-center
+      .col-lg-10
+        PasosA.color-acento-contenido(tipo="n")(data-aos="fade-right")
+          .row.justify-content-center.align-items-center
+            .col-lg-8
+              h4(data-aos="fade-down") Reconocimiento (by)
+              p(data-aos="fade-down") Significa que es permitida toda explotación de la obra, incluso si posee un fin comercial, así como la creación de obras que resulten de una derivación del original. Se permite su distribución sin ninguna limitación.
+            .col-lg-4.my-3 
+              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img100.png', alt='')
 
-            .row.justify-content-center.align-items-center
-              .col-lg-4.my-3 
-                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img103.png', alt='')
-              .col-lg-8.text-start
-                h4(data-aos="fade-down") Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-nd)
-                p(data-aos="fade-down") Significa que no es permitido el uso comercial de la creación original, así como tampoco la creación de obras derivadas. 
-            .row.justify-content-center.align-items-center
-              .col-lg-8
-                h4(data-aos="fade-down") Reconocimiento - Compartir Igual (by-sa)
-                p(data-aos="fade-down") Significa que está permitido el uso comercial de la obra y de las creaciones derivadas. La distribución de estas creaciones derivadas debe hacerse con una licencia equivalente a la que regula la creación original. 
-              .col-lg-4.my-3 
-                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img104.png', alt='')
+          .row.justify-content-center.align-items-center
+            .col-lg-4.my-3 
+              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img101.png', alt='')
+            .col-lg-8.text-start
+              h4(data-aos="fade-down") Reconocimiento - No Comercial (by-nc)
+              p(data-aos="fade-down") Significa que es permitida la creación de obras derivadas, pero no se puede hacer un uso comercial de ellas. Por otro lado, tampoco se puede usar la creación original con un fin comercial. 
+          .row.justify-content-center.align-items-center
+            .col-lg-8
+              h4(data-aos="fade-down") Reconocimiento - No Comercial - Compartir Igual (by-nc-sa)
+              p(data-aos="fade-down") Significa que se prohíbe el uso comercial de la creación original ni tampoco de creaciones que resulten de una derivación del original. Se permite la distribución de las creaciones derivadas con una licencia equivalente a la que regula la creación original. 
+            .col-lg-4.my-3 
+              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img102.png', alt='')
 
-            .row.justify-content-center.align-items-center
-              .col-lg-4.my-3 
-                img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img105.png', alt='')
-              .col-lg-8.text-start
-                h4(data-aos="fade-down") Reconocimiento - Sin Obra Derivada (by-nd)
-                p(data-aos="fade-down") Significa que está permitido el uso comercial de la creación, pero no la generación de creaciones derivadas.                  
+          .row.justify-content-center.align-items-center
+            .col-lg-4.my-3 
+              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img103.png', alt='')
+            .col-lg-8.text-start
+              h4(data-aos="fade-down") Reconocimiento - No Comercial - Sin Obra Derivada (by-nc-nd)
+              p(data-aos="fade-down") Significa que no es permitido el uso comercial de la creación original, así como tampoco la creación de obras derivadas. 
+          .row.justify-content-center.align-items-center
+            .col-lg-8
+              h4(data-aos="fade-down") Reconocimiento - Compartir Igual (by-sa)
+              p(data-aos="fade-down") Significa que está permitido el uso comercial de la obra y de las creaciones derivadas. La distribución de estas creaciones derivadas debe hacerse con una licencia equivalente a la que regula la creación original. 
+            .col-lg-4.my-3 
+              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img104.png', alt='')
+
+          .row.justify-content-center.align-items-center
+            .col-lg-4.my-3 
+              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img105.png', alt='')
+            .col-lg-8.text-start
+              h4(data-aos="fade-down") Reconocimiento - Sin Obra Derivada (by-nd)
+              p(data-aos="fade-down") Significa que está permitido el uso comercial de la creación, pero no la generación de creaciones derivadas.                  
 </template>
 
 <script>

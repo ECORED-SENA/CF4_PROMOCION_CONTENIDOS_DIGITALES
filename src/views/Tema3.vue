@@ -12,13 +12,13 @@
           .row.justify-content-start.align-items-center
             .col-lg-7 
               p(data-aos="fade-down").mb-0 
-                span.b #[b López Carreño (2017) ]  
+                span.b #[b López Carreño (2017) ]   
                 span expresa que las fuentes de información son de diversos tipos de documentos que agrupan una serie de datos que satisfacen una demanda de información o conocimiento. Pueden ser de diversos tipos y pueden ofrecer datos más o menos fidedignos, lo cual influye de manera definitiva y concluyente en los resultados que se van a lograr. Con la investigación se puede conseguir información, por eso es vital conocer cómo almacenar la información de la manera más confiable posible.
 
     .row.justify-content-center.align-items-center.bg10-1.p-4.d-block.d-lg-none
       .col-12
         p(data-aos="fade-down").mb-0 
-          span.b #[b López Carreño (2017)] 
+          span.b #[b López Carreño (2017) ] 
           span expresa que las fuentes de información son de diversos tipos de documentos que agrupan una serie de datos que satisfacen una demanda de información o conocimiento. Pueden ser de diversos tipos y pueden ofrecer datos más o menos fidedignos, lo cual influye de manera definitiva y concluyente en los resultados que se van a lograr. Con la investigación se puede conseguir información, por eso es vital conocer cómo almacenar la información de la manera más confiable posible.
 
 
@@ -39,12 +39,12 @@
             .col-auto.d-none.d-lg-block.p-0.ps-3
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img43.png', alt='')       
             .col-lg-10
-              p(data-aos="fade-down").mb-0 En una investigación se habla de fuentes de información o fuentes documentales para referirse al origen de una información específica, o sea, el soporte en el cual se encuentra y que, además, puede estar en poder de terceros.
-                span En la actualidad, la información fluye y está al alcance de todos gracias a la web y a las tecnologías de la información y la comunicación. Pero, se encuentra desordenada y sin ninguna jerarquía, haciéndola ver en muchas ocasiones como información basura que tiene muy poco valor.                            
+              p(data-aos="fade-down").mb-0 En una investigación se habla de fuentes de información o fuentes documentales para referirse al origen de una información específica, o sea, el soporte en el cual se encuentra y que, además, puede estar en poder de terceros
+                span . En la actualidad, la información fluye y está al alcance de todos gracias a la web y a las tecnologías de la información y la comunicación. Pero, se encuentra desordenada y sin ninguna jerarquía, haciéndola ver en muchas ocasiones como información basura que tiene muy poco valor.                            
           .bloque-texto-d.color-secundario.p-4
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left
-              h3.text-regular Es por esto que se hace necesario poder identificar las fuentes confiables y oportunas, así como elaborar de manera sería los estudios de gestión de la información. Además, la información es vital para la toma de decisiones con responsabilidad, por lo que empresas confían en investigaciones minuciosas con fuentes fidedignas para lograr sus objetivos.
+              h3.text-regular Es por esto que se hace necesario poder identificar las fuentes confiables y oportunas, así como elaborar de manera seria los estudios de gestión de la información. Además, la información es vital para la toma de decisiones con responsabilidad, por lo que empresas confían en investigaciones minuciosas con fuentes fidedignas para lograr sus objetivos.
               br
               .bloque-texto-d__autor
                 .h5.mb-0 CITATION Lóp17 \l 2058  (López Carreño, 2017)            
@@ -80,11 +80,11 @@
         .col-lg-7
           p Se refiere a guías físicas o digitales que sujetan información sobre las fuentes secundarias. También hacen parte de la colección de referencia de la biblioteca. Pero en este caso, facilitando el control y el acceso a todo el portafolio de repertorios de referencia, como, por ejemplo, las guías de obras de referencia o también a un solo tipo, como lo son las bibliografías. 
 
-          p Es una habilidad que puede detallarse en tres etapas: Localizar, apartar y elegir entre distintas fuentes la información útil para solucionar la necesidad informativa que se tenga. Es decir, desarticular la información en partes para seleccionar solamente lo que se necesita y así lograr el objetivo planteado. Ejemplos: directorios, guías, almanaques, manuales, cronologías, libro de instrucciones y estadísticas, entre otros. 
+          p Es una habilidad que puede detallarse en tres etapas: localizar, apartar y elegir entre distintas fuentes la información útil para solucionar la necesidad informativa que se tenga. Es decir, desarticular la información en partes para seleccionar solamente lo que se necesita y así lograr el objetivo planteado. Ejemplos: directorios, guías, almanaques, manuales, cronologías, libro de instrucciones y estadísticas, entre otros. 
         .col-lg-5 
           img.img-a.img-t.my-3(src='@/assets/curso/temas/img38.png', alt='') 
 
-    p(data-aos="fade-down").mb-5 Cuando ya se tiene la información, analizarla y revisarla es de vital importancia. Ésta es una capacidad que puede describirse en tres fases:      
+    p(data-aos="fade-down").mb-5 Cuando ya se tiene la información, analizarla y revisarla es de vital importancia. Esta es una capacidad que puede describirse en tres fases:      
 
     .bg12
       .row.mb-5
@@ -111,7 +111,7 @@
         .col-auto.d-none.d-lg-block.p-0.ps-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img44.png', alt='')       
         .col-lg-10
-          p(data-aos="fade-down").mb-0 El análisis y la revisión de la literatura comienza puntualmente con la elección de las fuentes primarias. Se recomienda emprender la revisión de la literatura examinando a uno o varios expertos en el tema para luego indagar en fuentes secundarias o terciarias. Quienes fabrican las fuentes secundarias o terciarias son expertos en las áreas a que éstas pertenecen, por lo que debe ser aprovechado al máximo su esfuerzo.            
+          p(data-aos="fade-down").mb-0 El análisis y la revisión de la literatura comienza puntualmente con la elección de las fuentes primarias. Se recomienda emprender la revisión de la literatura examinando a uno o varios expertos en el tema para luego indagar en fuentes secundarias o terciarias. Quienes fabrican las fuentes secundarias o terciarias son expertos en las áreas a que estas pertenecen, por lo que debe ser aprovechado al máximo su esfuerzo.            
 
     .row.justify-content-start.align-items-center.pt-5.mb-4(data-aos="flip-down")
       .col-lg-3.up

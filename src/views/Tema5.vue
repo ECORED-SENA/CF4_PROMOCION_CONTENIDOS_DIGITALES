@@ -206,10 +206,7 @@
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img131.svg', alt='')
                 .col-6
                   p.mb-0 #[b Credibilidad]
-              p.mt-4 El emisor debe poseer crédito ante el receptor, por lo que son factores importantes la personalidad, la tradición, la imagen y la experiencia. 
-              .row.justify-content-end.align-items-end
-                .col-auto
-                  h5.card-n.mb-0.mt-5 01
+              p.my-4 El emisor debe poseer crédito ante el receptor, por lo que son factores importantes la personalidad, la tradición, la imagen y la experiencia. 
         
             .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-primario.p-5.pb-0(data-aos="fade-down")
               .tarjeta-numerada__numero
@@ -219,10 +216,7 @@
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img132.svg', alt='')
                 .col-6
                   p.mb-0 #[b Atractivo]         
-              p.mt-4 El mensaje debe ser seductor, debe llamar la atención y debe impactar para que pueda cumplir con el objetivo trazado.  
-              .row.justify-content-end.align-items-end
-                .col-auto
-                  h5.card-n.mb-0.mt-5 02
+              p.my-4 El mensaje debe ser seductor, debe llamar la atención y debe impactar para que pueda cumplir con el objetivo trazado.  
 
             .col-md-6.col-xl.mb-4.mb-xl-0.tarjeta-numerada.color-primario.p-5.pb-0(data-aos="fade-right")
               .tarjeta-numerada__numero
@@ -232,10 +226,7 @@
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img133.svg', alt='')
                 .col-6
                   p.mb-0 #[b Persuasivo]         
-              p.mt-4.mb-0 El emisor debe motivar e influenciar al cliente para que realice la acción deseada (compra, registro, suscripción, etc.), bien sea de manera emocional o racional, y para que el receptor reciba el contenido del mensaje haciéndolo suyo.   
-              .row.justify-content-end.align-items-end
-                .col-auto
-                  h5.card-n.mb-0 03
+              p.my-4 El emisor debe motivar e influenciar al cliente para que realice la acción deseada (compra, registro, suscripción, etc.), bien sea de manera emocional o racional, y para que el receptor reciba el contenido del mensaje haciéndolo suyo.   
 
     .row.justify-content-center.align-items-center.mt-4
       .col-lg-4.up

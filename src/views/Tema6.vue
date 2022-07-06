@@ -136,7 +136,7 @@
               p.mb-0 La variación del tamaño: expandidas y las condensadas. 
 
       p(data-aos="fade-down") Dando como resultado una combinación que presenta versatilidad para los diseñadores: #[i Thin itálica, thin expandida], thin condensada; así mismo con la familia #[i médium, bold, black], etc., generando de esta forma, una gran cantidad de alternativas con la misma fuente, para que el creativo pueda jugar en cuanto a conceptos. 
-        span.b #[b (Kane, 2012)]
+        span.b #[b (Kane, 2012).]
 
     Separador 
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
